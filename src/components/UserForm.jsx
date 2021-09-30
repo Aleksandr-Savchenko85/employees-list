@@ -28,7 +28,7 @@ const UserForm = () => {
   }
   return (
     <div className="login-form">
-      <h1 className="text-title">Департаментc</h1>
+      <h1 className="text-title">Департамент</h1>
       <button className="submit-button" onClick={handleClick}>
         Все департаменты
       </button>
